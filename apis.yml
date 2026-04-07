@@ -1,7 +1,12 @@
 aid: joy-global
-url: https://raw.githubusercontent.com/api-evangelist/joy-global/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/joy-global/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.joy-global.com
+description: >-
+  Joy Global was a worldwide leader in manufacturing, servicing, and distributing
+  equipment for surface mining, underground mining, and rock excavation before being
+  acquired by Komatsu.
