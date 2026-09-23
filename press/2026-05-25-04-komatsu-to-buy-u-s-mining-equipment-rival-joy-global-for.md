@@ -1,7 +1,9 @@
 ---
 title: Komatsu to buy U.S. mining equipment rival Joy Global for ...
 url: https://www.reuters.com/article/business/komatsu-to-buy-us-mining-equipment-rival-joy-global-for-29-billion-idUSKCN1010K2/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Joy Global" press release artificial intelligence'
 position: 4
 source: serpapi-google
